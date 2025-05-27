@@ -1,1 +1,1 @@
-# Basic-Chaos-Game
+# Chaos-Game
