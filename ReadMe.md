@@ -27,14 +27,20 @@ The Chaos Game provides an intuitive way to visualize fractal geometry and itera
  **How to run the code**
  -
 1. **requirements:**
-* Python 3.x
-* Libraries: *matplotlib*, *numpy* (optional), *colorsys*
+  * Python 3.x
+  * Libraries: *matplotlib*, *numpy* (optional), *colorsys*
 
-
+2. **Run animation:**
+  * Execute the script in a Jupyter Notebook or any python enviroment supporting *matplotlib.animation*. The code generates a live animated visualization of the chaos game fractal. 
  
  **Example output**
  -
 ![Chaos Game fractal animation](chaos_game.gif)
  
- **why this project matters**
+ **Why this project matters:**
  -
+ This project showcases my passion for computational physics and mathematical modeling by bridging theory and code. More specifically it highlights:
+ * An understanding of fractals and chaos theory
+ * Skills in python programming and scientific visualization
+ * Ability to create meaningful and educational simulations
+ * Commitment to exploring interdisciplinary science through computation
